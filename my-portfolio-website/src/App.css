@@ -1,0 +1,33 @@
+body {
+  background: url("../src/static/images/bg1.jpg");
+  background-size: contain;
+  background-position: top;
+  background: cover;
+}
+
+.hero-one h1 {
+  font-family: "Poppins";
+}
+
+.hero-two h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.skill p {
+  font-family: "Poppins";
+}
+
+.certificate p {
+  font-family: "Poppins";
+}
+
+.project p {
+  font-family: "Poppins";
+}
+
+.contact-form h2 {
+  font-family: "Poppins";
+}
+.address p {
+  font-family: "Poppins";
+}

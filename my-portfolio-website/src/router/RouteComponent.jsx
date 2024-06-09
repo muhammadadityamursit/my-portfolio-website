@@ -7,7 +7,7 @@ import LayoutLanding from "../widges/LayoutLanding";
 
 const RouteComponent = () => {
   return (
-    <div className=" bg-slate-800">
+    <div className=" ">
       <BrowserRouter>
         <Routes>
           <Route
